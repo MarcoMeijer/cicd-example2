@@ -1,5 +1,5 @@
 # cicd-example
-[![Python application](https://github.com/MarcoMeijer/python-example-2023/actions/workflows/python-test.yml/badge.svg)](https://github.com/MarcoMeijer/python-example-2023/actions/workflows/python-test.yml)
+[![Python application](https://github.com/MarcoMeijer/cicd-example2/actions/workflows/python-app.yml/badge.svg)](https://github.com/MarcoMeijer/cicd-example2/actions/workflows/python-app.yml)
 
 updated readme
 
